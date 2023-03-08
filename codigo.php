@@ -7,7 +7,7 @@
 *@access public
 *@see educacionadistancia.juntadeandalucia.es/
  * @link https://phpdoc.org
-*Cambios en el archivo php
+*Hay nuevos cambios para ver en gibhub
  */
 
 //namespace phpDocumentor;
